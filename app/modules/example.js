@@ -35,4 +35,6 @@
     }
   });
 
+  //Initialize the Module Router
+  new Example.Router();
 })(namespace.module("example"));
